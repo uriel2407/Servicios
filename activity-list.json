@@ -1,0 +1,173 @@
+      { 
+          "activity" : 
+          [
+              {
+                  "id" : "1ie3fsvd4mv"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-11T00:02:39.212Z"
+                  ,"dateUpdated" : "2020-07-11T00:02:39.212Z"
+              }
+              ,
+              {
+                  "id" : "1ro2fj5q8ul"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-11T00:20:58.119Z"
+                  ,"dateUpdated" : "2020-07-11T00:20:58.119Z"
+              }
+              ,
+              {
+                  "id" : "251k752wt11"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-16T21:01:09.750Z"
+                  ,"dateUpdated" : "2020-07-16T21:01:09.750Z"
+              }
+              ,
+              {
+                  "id" : "2dra7wqcyup"
+                  ,"activityType" : "email"
+                  ,"companyId" : "1or2ab05imf"
+                  ,"accountId" : ""
+                  ,"dateScheduled" : ""
+                  ,"notes" : ""
+                  ,"status" : "pending"
+                  ,"dateCreated" : "2019-02-25T08:22:15.648Z"
+                  ,"dateUpdated" : "2019-02-25T08:22:15.648Z"
+              }
+              ,
+              {
+                  "id" : "2miqgk071bo"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-11T00:35:41.103Z"
+                  ,"dateUpdated" : "2020-07-11T00:35:41.103Z"
+              }
+              ,
+              {
+                  "id" : "2otpl15lma4"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-11T00:26:59.402Z"
+                  ,"dateUpdated" : "2020-07-11T00:26:59.402Z"
+              }
+              ,
+              {
+                  "id" : "39gsopibv9i"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-16T21:03:08.602Z"
+                  ,"dateUpdated" : "2020-07-16T21:03:08.602Z"
+              }
+              ,
+              {
+                  "id" : "4r5t6y7u"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-10T22:09:26.644Z"
+                  ,"dateUpdated" : "2020-07-10T22:09:26.644Z"
+              }
+              ,
+              {
+                  "id" : "92lbr0x8ims"
+                  ,"activityType" : "inperson"
+                  ,"companyId" : "21r1aeuj87e"
+                  ,"accountId" : ""
+                  ,"dateScheduled" : ""
+                  ,"notes" : ""
+                  ,"status" : "closed"
+                  ,"dateCreated" : "2019-06-08T21:44:38.410Z"
+                  ,"dateUpdated" : "2019-06-08T21:44:38.410Z"
+              }
+              ,
+              {
+                  "id" : "aih6vltwzqg"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-16T21:05:04.184Z"
+                  ,"dateUpdated" : "2020-07-16T21:05:04.184Z"
+              }
+              ,
+              {
+                  "id" : "d8kscijaw6w"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-10T22:25:32.867Z"
+                  ,"dateUpdated" : "2020-07-10T22:25:32.867Z"
+              }
+              ,
+              {
+                  "id" : "dc7dfzps4nk"
+                  ,"companyId" : "w2e3r4t5"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "inperson"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "follow up visit."
+                  ,"status" : "active"
+                  ,"dateCreated" : "2020-07-11T00:06:27.614Z"
+                  ,"dateUpdated" : "2020-07-11T00:06:27.614Z"
+              }
+              ,
+              {
+                  "id" : "m0mvoh0loj"
+                  ,"activityType" : "email"
+                  ,"companyId" : "21r1aeuj87e"
+                  ,"accountId" : ""
+                  ,"dateScheduled" : ""
+                  ,"notes" : ""
+                  ,"status" : "pending"
+                  ,"dateCreated" : "2019-02-25T08:22:34.560Z"
+                  ,"dateUpdated" : "2019-02-25T08:22:34.560Z"
+              }
+              ,
+              {
+                  "id" : "q1w2e3r4"
+                  ,"companyId" : "2w3e4r5t"
+                  ,"accountId" : "3e4r5t6y"
+                  ,"activityType" : "email"
+                  ,"dateScheduled" : "2020-05-01"
+                  ,"notes" : "All is good."
+                  ,"status" : "closed"
+                  ,"dateCreated" : "2020-03-05T21:41:29.356Z"
+                  ,"dateUpdated" : "2020-03-05T21:49:54.319Z"
+              }
+          ]
+       }
+    
